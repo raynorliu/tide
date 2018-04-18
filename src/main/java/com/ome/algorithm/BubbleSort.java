@@ -149,7 +149,7 @@ public class BubbleSort {
 		// bubbleSort.firstAlgorithm(arr);
 		// bubbleSort.secondAlgorithm(arr);
 		// bubbleSort.thirdAlgorithm(arr);
-		bubbleSort.fourthlyAlgorithm(arr);
+		// bubbleSort.fourthlyAlgorithm(arr);
 		// bubbleSort.fifthAlgorithm(arr);
 	}
 }
