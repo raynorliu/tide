@@ -25,4 +25,8 @@ public class LogTest {
 		logger.fatal("严重错误信息");
 	}
 
+	public static void main(String[] args) {
+		LogTest l = new LogTest();
+		l.testLog();
+	}
 }
